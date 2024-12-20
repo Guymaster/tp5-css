@@ -1,0 +1,10 @@
+div {
+    background-color: yellow;
+    padding: 20px;
+    margin: 5px;
+}
+
+.stick {
+    position: sticky;
+    top: 50px;
+}
